@@ -1,0 +1,41 @@
+body {
+  background-color: #001111bb;
+  border: 10px double rgba(108, 109, 36, 0.678);
+  padding: 10px;
+}
+
+img {
+  border: 4px groove rgba(7, 23, 97, 0.603);
+  border-radius: 20px;
+  box-shadow: 0.1px 15px 45px black;
+}
+
+h1,
+h3,
+h4 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #bbaa0080;
+  text-shadow: 2px 8px 20px black;
+}
+
+p,
+ul,
+ol {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(212, 162, 104);
+  font-size: 1.25em;
+}
+
+a {
+  text-decoration: none;
+  color: firebrick;
+}
+
+a:hover {
+  color: gray;
+}
+
+a:active {
+  color: white;
+}
